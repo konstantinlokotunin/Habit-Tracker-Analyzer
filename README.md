@@ -1,4 +1,4 @@
-# 📊 Habit Tracker (Python Data Visualization)
+# 📊 Habit Tracker (Python)
 
 ## 🚀 Overview
 
